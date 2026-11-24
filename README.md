@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+A retro FPS for the ages! Once branded a HERETIC. Now YOU have been chosen as our champion! Reclaim our sacred weapons. Take back our ancient lands. If you can stand... AMID EVIL.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,14 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: Quad Core 2.5 GHz or faster / Rec: Quad Core 3.5 GHz or faster | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 8 GB RAM / Rec: 16 GB RAM | 8 GB RAM |
+| **Graphics** | Min: NVIDIA GTX 470 / AMD Radeon 6870 HD / Rec: NVIDIA GTX 1060 / AMD Radeon RX 580 | Metal-capable GPU |
+| **DirectX** | Min: Version 11 / Rec: Version 12 | Version 11 |
+| **Storage** | 5 GB available space | 5 GB available space |
+| **OS *** | Windows 7 64-bit or later | Windows 7 64-bit or later |
+| **Sound Card** | Min: A Dank One / Rec: A Really Dank One | A Dank One |
+| **Additional Notes** | If you're unsure that your system meets the minimum req… | If you're unsure that your system meets the minimum req… |
 
 ---
 
